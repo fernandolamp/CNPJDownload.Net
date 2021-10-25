@@ -1,7 +1,6 @@
 # Dados públicos CNPJ - Auxiliador para download dos zips
 
-Software desenvolvido para auxiliar no download dos CNPJ do site da receita https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/
-cadastros/consultas/dados-publicos-cnpj
+Software desenvolvido para auxiliar no download dos CNPJ do site da receita https://www.gov.br/receitafederal/pt-br/assuntos/orientacao-tributaria/cadastros/consultas/dados-publicos-cnpj
 
 ## Motivação
 
@@ -25,4 +24,8 @@ Rodar em linux vai ser necessário instalar o .net 5.0 runtime ou sdk
   Windows, baixe o pacote para windows, descompacte e dê dois cliques
 
   Linux, baixe o pacote, descompacte e execute `./CNPJ.Core`
+
+### Download 
+
+https://github.com/fernandolamp/CNPJDownload.Net/tags
 
